@@ -1,0 +1,2 @@
+difyculty 0
+easy
